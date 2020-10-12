@@ -17,6 +17,6 @@ Then, to generate it, run this on your command line.
 node index.js
 ```
 
-## Credits:
+## Credits
 - [lindell/JsBarcode](https://github.com/lindell/JsBarcode)
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas)
